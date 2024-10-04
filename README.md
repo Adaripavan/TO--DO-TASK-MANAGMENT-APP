@@ -1,4 +1,5 @@
-after downloading  the file path should be like this
+after downloading  the file path should be like this see the screen shot fro better understanding
+
 /project-root
   |-- index.php
   |-- /css
